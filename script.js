@@ -8,6 +8,8 @@ const currState = {
     isFetchingOn: true,
 }
 
+console.log("@3")
+
 
 function displayUser(user){
     if(!user) return;
